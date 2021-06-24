@@ -1,0 +1,12 @@
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\bin\Debug\Student.exe.config
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\bin\Debug\Student.exe
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\bin\Debug\Student.pdb
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\bin\Debug\Student.xml
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\obj\Debug\Student.vbprojResolveAssemblyReference.cache
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\obj\Debug\Student.Resources.resources
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\obj\Debug\Student.vbproj.GenerateResource.cache
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\obj\Debug\Student.vbproj.CoreCompileInputs.cache
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\obj\Debug\Student.exe
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\obj\Debug\Student.xml
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\obj\Debug\Student.pdb
+C:\Users\charles\Desktop\Practicals 2.2\App Programming\Student\Student\obj\Debug\Student.frmbirth.resources
